@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_documentation element="" label="nonTaskExtend" language="en" table="x_238018_testmatsu_nontaskextend">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>

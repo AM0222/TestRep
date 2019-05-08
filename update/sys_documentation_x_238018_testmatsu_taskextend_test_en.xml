@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="TaskExtend" language="en" table="x_238018_testmatsu_taskextend">
+    <sys_documentation element="test" label="TEST" language="en" table="x_238018_testmatsu_taskextend">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>test</element>
             <help/>
             <hint/>
-            <label>TaskExtend</label>
+            <label>TEST</label>
             <language>en</language>
             <name>x_238018_testmatsu_taskextend</name>
-            <plural>TaskExtends</plural>
+            <plural>TESTs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-08 06:30:33</sys_created_on>
-            <sys_id>24d01351db9173009ade9c66db96194b</sys_id>
+            <sys_created_on>2019-05-08 06:35:54</sys_created_on>
+            <sys_id>3602579ddb9133005c7d2bfa4b961980</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>TaskExtend</sys_name>
+            <sys_name>TEST</sys_name>
             <sys_package display_value="testMatsuda" source="x_238018_testmatsu">8f901b9ddb5173009ade9c66db9619ac</sys_package>
             <sys_policy/>
             <sys_scope display_value="testMatsuda">8f901b9ddb5173009ade9c66db9619ac</sys_scope>
-            <sys_update_name>sys_documentation_x_238018_testmatsu_taskextend__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_238018_testmatsu_taskextend_test_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-08 06:30:33</sys_updated_on>
+            <sys_updated_on>2019-05-08 06:35:54</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
